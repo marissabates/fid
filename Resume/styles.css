@@ -1,0 +1,120 @@
+@charset "UTF-8";
+	body {
+		background: linear-gradient(rgb(237, 226, 218), rgb(204, 191, 182)) no-repeat center fixed;
+		background-size: cover;
+		margin: 0 10%;
+		font-family: sans-serif;
+		}
+
+/*Text*/
+	hr {
+		background-color: #524230;
+		height: 0.5px;
+		border: 0;
+	}
+	h1 {
+		font: normal 2.8em "EB Garamond", Georgia, serif;
+		text-align: center;
+		color: #524230;
+		text-transform: uppercase;
+		border-bottom: 1px solid #524230;
+		margin-top: 30px;
+	}	
+	h2 {
+  		font: normal 2em "EB Garamond", Georgia, serif;
+  		color: #524230;
+	}
+	h3 {
+  		font: normal 1.6em "EB Garamond", Georgia, serif;
+  		color: #524230;
+	}
+	h1 + h2 + h3 + p {
+  		text-align: center;
+	}
+	p {
+  		text-align: center;
+    		font: normal 1.2em "EB Garamond", Georgia, serif;
+	}
+
+/*Images*/
+
+	img {
+		object-fit: contain;
+  		width: 250px;
+  		height: 250px;
+	}
+
+/*Navigation*/
+
+	ul {
+		list-style-type: none;
+  		text-align: center;
+		margin: 0;
+  		padding: 0;
+	}
+	li {
+    		display: inline;
+   		padding: 15px;
+		font: normal 22px "EB Garamond", Georgia, serif;
+		color: #6d6d5a;
+	}
+	a {
+ 		text-decoration: none;
+ 		font-size: 30px;
+	}
+	a:link {
+  		color: #939;
+	}
+	a:visited {
+  		color: #937393;
+	}
+	a:focus, a:hover {
+  		color: #c700f2;
+  		background-color: #fff;
+	}
+	a:active {
+  		color: #f0f;
+  		background-color: #fff;
+	}
+
+/*Footer*/
+
+	footer {
+		border-top: 1px solid #57b1dc;
+		text-align: center;
+		padding-top: 1em;
+	}
+	footer img {
+		width: 40px;
+		height: 40px;
+		margin-left: .5em;
+		margin-right: .5em;
+	}
+
+/*Other*/
+
+	dt {
+  		font-weight: bold;
+	}
+	strong {
+  		font-style: italic;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

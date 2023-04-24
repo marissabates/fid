@@ -1,8 +1,9 @@
 @charset "UTF-8";
 	body {
-		background: #faf2e4 url(Images/blackgoose2.png) no-repeat center 100px fixed;
-		margin: 0 10%;
 		font-family: sans-serif;
+		margin: 0 10%;
+		font-size: 100%;
+		background: #faf2e4 url(Images/blackgoose2.png) no-repeat center 100px fixed;
 		}
 
 /*Text*/

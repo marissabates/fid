@@ -9,14 +9,14 @@
 /*Text*/
 
 	h1 {
-		font: normal 3.3em "EB Garamond", Georgia, serif;
+		font: normal 3.3em Georgia, serif;
 		text-align: center;
 		text-transform: uppercase;
 		border-bottom: 1px solid #57b1dc;
 		margin-top: 30 px;
 	}
 	h2 {
-		font: normal 2.5em "EB Garamond", Georgia, serif;
+		font: normal 2.5em Georgia, serif;
 		color: #d1633c;
 		text-align: center;
 	}
@@ -25,7 +25,7 @@
 	}
 	p {
   		text-align: center;
-    		font: normal 1.6em "EB Garamond", Georgia, serif;
+    		font: normal 1.6em Georgia, serif;
 	}
 
 /*Navigation*/
@@ -39,7 +39,7 @@
 	li {
     		display: inline;
    		padding: 15px;
-		font: normal 22px "EB Garamond", Georgia, serif;
+		font: normal 22px Georgia, serif;
 		color: #399;
 	}
 	a {
